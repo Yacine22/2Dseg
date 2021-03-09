@@ -7,4 +7,4 @@ Object Detection from 2D images
 
 Install **python 3.7** or any later vesion.
 
-* pip install -r requirements.txt 
+* pip install opencv-python
